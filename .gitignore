@@ -1,0 +1,25 @@
+# Sensitive files
+Data/config.php
+Data/db.php
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.cache
+
+# Uploads / generated files
+uploads/
+exports/
+backup/
+backups/
+
+# Dependencies
+vendor/
+node_modules/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
